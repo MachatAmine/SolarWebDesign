@@ -168,6 +168,16 @@
     line-height: 1.5em
 }
 
+.tab-box .lqd-tabs-nav>li>a,
+.tab-box .lqd-tabs-nav .h3,
+.tab-box .lqd-tabs-nav>li>a .lqd-tabs-nav-txt {
+    font-family: var(--lqd-accent-font-family), Sans-serif;
+    font-size: var(--lqd-accent-font-size);
+    line-height: var(--lqd-accent-line-height);
+    letter-spacing: var(--lqd-accent-letter-spacing);
+    word-spacing: var(--lqd-accent-word-spacing)
+}
+
 .main-header .ld-module-dropdown .main-nav>li>a>.link-icon {
     font-size: .75em
 }
